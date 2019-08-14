@@ -1,2 +1,1 @@
-# Simple Drawing Web App
-[Video Guide](https://youtu.be/amXSWXQssww)
+Code sourced from https://github.com/GeekLaunch/simple-drawing-web-app
